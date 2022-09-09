@@ -20,3 +20,7 @@
 
 #This is liam doing it again
 #This is Ethan editing
+#Ward added to it:
+<div>
+ <img src="https://64.media.tumblr.com/4a7ff6470446304e4dbde589908b582f/tumblr_mw7iflGf3V1smj5iyo1_500.gifv" width="600" height="300"/>
+<div/>
